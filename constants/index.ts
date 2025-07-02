@@ -262,7 +262,7 @@ export const PROJECTS = [
     title: "HandWritting App",
     description:
       'The Handwriting App is a browser-based drawing application built using React that allows users to freely write or sketch on a digital canvas using mouse or touch input. It features a smooth, responsive interface powered by the HTML5 <canvas> element, enabling real-time rendering of strokes. Users can clear the canvas with a reset button and optionally customize the pens color and thickness. The app demonstrates effective integration of React with native browser APIs and showcases my skills in building interactive, user-friendly interfaces with React Hooks and functional components',
-    image: "/projects/handwriting.png",
+    image: "/projects/Handwriting.png",
     link: "https://handwritingapp.vercel.app/",
   },
   {
