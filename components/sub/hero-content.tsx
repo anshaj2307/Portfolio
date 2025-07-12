@@ -50,7 +50,7 @@ export const HeroContent = () => {
 
         <motion.a
           variants={slideInFromLeft(1)}
-          href="/Full-Stack-Developer-Anshaj-Resume.pdf"
+          href="/Full-Stack-Anshaj-Resume.pdf"
           download="Resume Anshaj.pdf"
           className="py-2 px-4 button-primary text-center text-white bg-purple-600 hover:bg-purple-700 transition-colors duration-300 cursor-pointer rounded-lg max-w-[200px]"
         >
