@@ -24,7 +24,7 @@ export const HeroContent = () => {
         >
           <SparklesIcon className="text-[#b49bff] mr-[10px] h-5 w-5" />
           <h1 className="Welcome-text text-[13px]">
-            Fullstack Developer Portfolio
+            Web Developer Portfolio
           </h1>
         </motion.div>
 
@@ -50,7 +50,7 @@ export const HeroContent = () => {
 
         <motion.a
           variants={slideInFromLeft(1)}
-          href="/Full-Stack-Anshaj-Resume.pdf"
+          href="/Software_Anshaj_Resume...pdf"
           download="Anshaj-Resume.pdf"
           className="py-2 px-4 button-primary text-center text-white bg-purple-600 hover:bg-purple-700 transition-colors duration-300 cursor-pointer rounded-lg max-w-[200px]"
         >
