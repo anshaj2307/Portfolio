@@ -2,6 +2,7 @@ import { Encryption } from "@/components/main/encryption";
 import { Hero } from "@/components/main/hero";
 import { Projects } from "@/components/main/projects";
 import { Skills } from "@/components/main/skills";
+import { Analytics } from "@vercel/analytics/next"
 
 export default function Home() {
   return (
